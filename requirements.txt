@@ -1,0 +1,12 @@
+dgl==1.0.1
+dtaidistance==2.3.10
+einops==0.6.0
+fvcore==0.1.5.post20221221
+numpy==1.20.1
+pandas==1.2.3
+PyYAML==6.0
+scipy==1.6.1
+torch==1.8.0+cpu
+torch_geometric==2.3.0
+torch_scatter==2.1.1
+torch_sparse==0.6.17
